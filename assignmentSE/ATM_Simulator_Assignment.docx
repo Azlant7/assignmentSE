@@ -1,0 +1,37 @@
+# Software Engineering Assignment 3
+
+## ATM Simulator System
+
+### Introduction
+This section provides an introduction to the ATM simulator system, describing its objectives and functionalities.
+
+### Requirements
+List all the functional and non-functional requirements for the ATM simulator.
+
+### Design
+This section will include diagrams representing the design of the ATM simulator system. Please replace the placeholders with actual diagrams later.
+
+#### Use Case Diagram
+![Use Case Diagram](path/to/use_case_diagram.png)
+
+#### Class Diagram
+![Class Diagram](path/to/class_diagram.png)
+
+### Implementation
+Provide details on how the system was implemented, including technology stack and code snippets.
+
+### Testing
+Outline the testing strategies applied to ensure system reliability and performance.
+
+### Draw.io XML Codes
+Below are embedded Draw.io XML codes for diagrams:
+
+```xml
+<!-- Place your Draw.io XML codes here -->
+```
+
+### Conclusion
+Summarize the key points discussed in the assignment.
+
+### References
+Cite any resources or references used in the preparation of this assignment.
